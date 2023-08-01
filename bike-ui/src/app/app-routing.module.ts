@@ -6,7 +6,7 @@ import { ViewRegistrationComponent } from './components/view-registration/view-r
 
 const routes: Routes = [
   {
-    path: 'home',
+    path: '',
     component: HomeComponent
   },
   {
